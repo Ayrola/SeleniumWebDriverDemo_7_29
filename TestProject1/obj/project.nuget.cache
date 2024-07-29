@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZV55t9yImvrEjyBqU35xAVZEw9UntOMyRrfTSFFbN5/biEXUPQVRGX412m+0KhDhRZ8P0qzprdH90H2QeTP65g==",
+  "dgSpecHash": "ZxFc3XNP7KOOllrq6uWSraASghQzF7evPcMCoPOFQEy/jbjLZv0U0UX0wVwIL/2JcyROqaMEj2ojxmpatt2y5w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ayrol\\Resources\\Resources\\2-SeleniumWebDriver\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
@@ -17,8 +17,7 @@
     "C:\\Users\\ayrol\\.nuget\\packages\\nunit.analyzers\\3.3.0\\nunit.analyzers.3.3.0.nupkg.sha512",
     "C:\\Users\\ayrol\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\ayrol\\.nuget\\packages\\selenium.support\\4.21.0\\selenium.support.4.21.0.nupkg.sha512",
-    "C:\\Users\\ayrol\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
-    "C:\\Users\\ayrol\\.nuget\\packages\\selenium.webdriver.chromedriver\\126.0.6478.6100\\selenium.webdriver.chromedriver.126.0.6478.6100.nupkg.sha512",
+    "C:\\Users\\ayrol\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
     "C:\\Users\\ayrol\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
   ],
   "logs": []
